@@ -1,10 +1,14 @@
-# BUS_segmentation
+# Introduction
 
-## Introduction
-
-This repository is for the PAPER: *Fully automatic tumor segmentation of breast ultrasound images with deep learning* .
+### This repository is for the PAPER: *Fully automatic tumor segmentation of breast ultrasound images with deep learning* .
 
 
+
+## Citation
+
+
+
+## Information
 
 cla_seg.py: the proposed models.
 
@@ -16,9 +20,13 @@ train.py: training code for the above models.
 
 utils.py: loss function and evaluation function, etc. 
 
-## citation
 
 
+## Requirements
 
-
-
+sklearn
+pytorch
+torchvision
+albumentations
+opencv
+easydict
