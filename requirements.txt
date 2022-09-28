@@ -1,0 +1,6 @@
+sklearn
+pytorch
+torchvision
+albumentations
+opencv
+easydict
